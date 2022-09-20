@@ -1,0 +1,27 @@
+export default {
+  companies: '@Contafuturo.companies',
+  email: '@Contafuturo.email',
+  menu: '@Contafuturo.menu',
+  token: '@Contafuturo.token',
+  companyFilter: '@Contafuturo.companyFilter',
+  registration: {
+    companyId: '@Contafuturo.companyId',
+    step: '@Contafuturo.step',
+    companyName: '@Contafuturo.companyName',
+  },
+  simulation: {
+    name: '@contafuturo.name',
+    paymentDate: '@contafuturo.paymentDate',
+    step: '@Contafuturo.step',
+    cpf: '@contafuturo.cpf',
+    limitAvailable: '@contafuturo.limitAvailable',
+    bankMatched: '@contafuturo.bankMatched',
+    cnpj: '@contafuturo.cnpj',
+    typeTitle: '@contafuturo.typeTitle',
+    paymentValueInteger: '@contafuturo.paymentValueInteger',
+    valueDocument: '@contafuturo.valueDocument',
+    phone: '@contafuturo.fone',
+    email: '@contafuturo.email',
+    companyPaymentDate: '@contafuturo.companyPaymentDate',
+  },
+};
